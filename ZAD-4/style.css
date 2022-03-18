@@ -1,0 +1,207 @@
+body {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+#navbar a{
+    color: #000;
+} 
+
+.name {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.tel {
+    font-weight: 700;
+}
+
+
+.menu {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul > li {
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.slider {
+    height: 666px;
+    background-image: url(img/website-design-background.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-size: 22px;
+    
+}
+
+.box {
+    
+    padding-top: 220px;
+    
+}
+
+@media (max-width: 1200px) {
+    .box {
+        padding-top: 60px !important;
+    }
+}
+
+.text {
+    color: #ffffff;
+    width: 800px !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text h1 {
+    text-transform: uppercase;
+}
+
+.icon {
+    width: 250px !important;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#box1 span{
+    color: #7E8693;
+}
+
+#socials {
+    width: 350px;
+}
+
+#fb a{
+    color: #3EC096;
+    text-decoration: none;
+}
+
+#fb:hover a{
+    color: #2db087;
+}
+
+#in a{
+    color: #3EC096;
+    text-decoration: none;
+}
+
+#in:hover a{
+    color: #2db087;
+}
+
+#fb:hover in{
+    color: #2db087;
+}
+
+#git a{
+    color: #3EC096;
+    text-decoration: none;
+}
+
+#git:hover a{
+    color: #2db087;
+}
+
+#gplus a {
+    color: #3EC096;
+    text-decoration: none;
+}
+
+#gplus:hover a{
+    color: #2db087;
+}
+
+#blog {
+    background-color: #eaf2ff;
+}
+
+#blog h1 {
+    text-align: center;
+}
+
+.blog-box-in {
+    background-color: #fff;
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 2px 11px -5px rgba(66, 68, 90, 1);
+    -moz-box-shadow: 0px 2px 11px -5px rgba(66, 68, 90, 1);
+    box-shadow: 0px 2px 11px -5px rgba(66, 68, 90, 1);
+  }
+
+  .blog-box-in img {
+    border-radius: 10px;
+  }
+
+#lbox {
+    font-weight: 700;
+}
+
+#rbox {
+    font-weight: 700;
+}
+
+#lbox > div > div > input {
+    width: 400px;
+    margin-top: 5px;
+    border: 2px solid #eaf2ff;
+    border-radius: 7px;
+    -webkit-box-shadow: 0px 2px 11px -5px rgba(66, 68, 90, 1);
+    -moz-box-shadow: 0px 2px 11px -5px rgba(66, 68, 90, 1);
+    box-shadow: 0px 2px 11px -5px rgba(66, 68, 90, 1);
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+#lbox h1 {
+    font-weight: 700;
+}
+
+#rbox h1 {
+    font-weight: 700;
+}
+
+#rbox > div > textarea {
+    width: 400px;
+    height: 110px;
+    margin-top: 5px;
+    border: 2px solid #eaf2ff;
+    border-radius: 7px;
+    -webkit-box-shadow: 0px 2px 11px -5px rgba(66, 68, 90, 1);
+    -moz-box-shadow: 0px 2px 11px -5px rgba(66, 68, 90, 1);
+    box-shadow: 0px 2px 11px -5px rgba(66, 68, 90, 1);
+}
+
+footer {
+    background-color: #eaf2ff;
+}
+
+.input {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bold {
+    font-weight: bold !important;
+}
+
+.bar-green {
+    -webkit-box-shadow: 0px 2px 11px -5px rgba(66, 68, 90, 1);
+    -moz-box-shadow: 0px 2px 11px -5px rgba(66, 68, 90, 1);
+    box-shadow: 0px 2px 11px -5px rgba(66, 68, 90, 1);
+    background-color: #333 !important;
+}
+
+.bar-gray {
+    -webkit-box-shadow: 0px 2px 11px -5px rgba(66, 68, 90, 1);
+    -moz-box-shadow: 0px 2px 11px -5px rgba(66, 68, 90, 1);
+    box-shadow: 0px 2px 11px -5px rgba(66, 68, 90, 1);
+    background-color: #333 !important;
+} 
+
+.border-radius {
+    border-radius: 4px !important;
+}
